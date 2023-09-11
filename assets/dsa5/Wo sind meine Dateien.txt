@@ -1,0 +1,4 @@
+Moin,
+aus lizenzrechtlichen Gründen musst du dich selber um die Layoutdateien kümmern. Aber verzage nicht, das was du brauichst findest du kostenlos (oder für Paywhatyouwant) hier: https://www.drivethrurpg.com/product/197880/Scriptorium-Aventuris--LayoutBaukasten
+Einfach die Dateien aus dem zip in die passenden Unterordner kopieren - fertig.
+Danach kannst du diese Datei löschen wenn du magst.
